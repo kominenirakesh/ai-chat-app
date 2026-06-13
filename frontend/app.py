@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-API_URL = "http://127.0.0.1:8000"
+API_URL = "https://ai-chat-app-10h4.onrender.com"
 
 st.set_page_config(page_title="AI Chat App")
 
